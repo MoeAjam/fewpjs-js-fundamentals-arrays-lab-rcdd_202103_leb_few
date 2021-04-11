@@ -9,3 +9,6 @@ const prepand = pets;
 const removeLast = pets;
 const removeFirst = pets;
 append.push("Odie");
+prepand.unshift("Odie");
+removeLast.pop();
+removeFirst.shift();
