@@ -1,2 +1,2 @@
 // Write your solution here!
-console.log(pet);
+pet.shift("Odie");
