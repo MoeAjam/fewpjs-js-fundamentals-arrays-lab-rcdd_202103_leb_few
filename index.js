@@ -3,10 +3,10 @@
 // `append`, `prepend`, `removeLast` and `removeFirst`, and set all to an initial
 // value of `["Milo", "Otis", "Garfield"]`. These are the `array`s that we'll work
 // with for each exercise.
-const pets = ["Milo", "Otis", "Garfield"];
-const append = pets;
+// const pets = ["Milo", "Otis", "Garfield"];
+const append = ["Milo", "Otis", "Garfield"];
 append.push('Odie');
-const prepend = pets;
+const prepend = ["Milo", "Otis", "Garfield"];
 prepend.unshift('Odie');
 // const removeLast = pets;
 // removeLast.pop();
