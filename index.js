@@ -5,9 +5,9 @@
 // with for each exercise.
 const pets = ["Milo", "Otis", "Garfield"];
 const append = pets;
-append.push("Odie");
+append.push('Odie');
 const prepend = pets;
-prepend.unshift("Odie");
+prepend.unshift('Odie');
 // const removeLast = pets;
 // removeLast.pop();
 // const removeFirst = pets;
