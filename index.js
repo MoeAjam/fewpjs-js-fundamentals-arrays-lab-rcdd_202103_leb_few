@@ -6,7 +6,7 @@
 const pets = ["Milo", "Otis", "Garfield"];
 const append = pets;
 const prepend = pets;
-append.unishift("Odie");
+append.unshift("Odie");
 prepend.push("Odie");
 // const removeLast = pets;
 // removeLast.pop();
