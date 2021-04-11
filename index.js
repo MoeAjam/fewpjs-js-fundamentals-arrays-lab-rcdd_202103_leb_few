@@ -4,4 +4,4 @@
 // value of `["Milo", "Otis", "Garfield"]`. These are the `array`s that we'll work
 // with for each exercise.
 const pets = ["Milo", "Otis", "Garfield"];
-const append = pets.push("Odie");
+const append = pets;
