@@ -5,4 +5,4 @@
 // with for each exercise.
 const pets = ["Milo", "Otis", "Garfield"];
 const append = pets;
-append = pets.push('Odie');
+append = pets.push("Odie");
