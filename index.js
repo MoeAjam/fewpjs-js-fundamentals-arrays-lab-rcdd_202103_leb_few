@@ -6,8 +6,8 @@
 const pets = ["Milo", "Otis", "Garfield"];
 const append = pets;
 append.push('Odie');
-// const prepand = pets;
-// prepand.unshift('Odie');
+const prepand = pets;
+prepand.unshift('Odie');
 // const removeLast = pets;
 // removeLast.pop();
 // const removeFirst = pets;
